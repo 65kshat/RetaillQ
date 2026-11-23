@@ -11,7 +11,7 @@ build/
 dist/
 *.egg-info/
 .eggs/
-.streamlit/
+.streamlit/secrets.toml
 # ==============================
 # Virtual Environments
 # ==============================
